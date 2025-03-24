@@ -19,7 +19,7 @@
 - Bu sistem, yaratıcılığınızı yerine koymak için değil, onu tamamlamak için tasarlanmıştır; böylece kodlama ve dokümantasyon gibi tekrarlayan ve zaman alıcı görevleri otomatikleştirirken, fikir üretimi ve eleştirel düşünmeye odaklanabilirsiniz. Farklı düzeylerde hesaplama kaynakları ve insan katılımını karşılayarak, Agent Laboratuvarı bilimsel keşfi hızlandırmayı ve araştırma verimliliğinizi optimize etmeyi amaçlamaktadır.
 
 <p align="center">
-  <img src="../media/AgentLab.png" alt="Demonstration of the flow of AgentClinic" style="width: 99%;">
+  <img src="media/AgentLab.png" alt="Demonstration of the flow of AgentClinic" style="width: 99%;">
 </p>
 
 ### 🔬 Agent Laboratuvarı Nasıl Çalışır?
@@ -27,7 +27,7 @@
 - Agent Laboratuvarı, araştırma sürecini sistematik olarak yönlendiren üç ana aşamadan oluşur: (1) Literatür Taraması, (2) Deney Yapma ve (3) Rapor Yazımı. Her aşamada, LLM'ler tarafından yönlendirilen uzman ajanlar, arXiv, Hugging Face, Python ve LaTeX gibi dış araçları entegre ederek farklı hedeflere ulaşmak için iş birliği yapar ve sonuçları optimize eder. Bu yapılandırılmış iş akışı, ilgili araştırma makalelerinin bağımsız olarak toplanması ve analiz edilmesiyle başlar, ortak planlama ve veri hazırlama aşamalarından geçer ve otomatik deney yapma ile kapsamlı rapor oluşturma ile sona erer. Bu aşamalarda belirli ajan rollerinin ve katkılarının detayları makalede tartışılmaktadır.
 
 <p align="center">
-  <img src="../media/AgentLabWF.png" alt="Demonstration of the flow of AgentClinic" style="width: 99%;">
+  <img src="media/AgentLabWF.png" alt="Demonstration of the flow of AgentClinic" style="width: 99%;">
 </p>
 
 ## 🖥️ Kurulum
